@@ -1,0 +1,30 @@
+.blog-list-container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .blog-post {
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post p {
+    color: #555;
+  }
+  
+  .blog-post a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .blog-post a:hover {
+    text-decoration: underline;
+  }
+  
