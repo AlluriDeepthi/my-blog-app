@@ -2,6 +2,8 @@
 
 This is a Blog which I have created using **React.js**. Main motive behind this blog is to deepen my understanding of React, React Dev Tools, Libraries and data flow between different pages in the application.
 
+**[View the Live Project Here](http://localhost:3000/)**
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
