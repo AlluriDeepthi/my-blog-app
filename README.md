@@ -1,4 +1,5 @@
-React-Blog : 
+#React-Blog
+This is a Blog which I have created using React.js. Main motive behind this blog is to deepen my understanding of React, React Dev Tools, Libraries and data flow between different pages in the application.
 
 # Getting Started with Create React App
 
